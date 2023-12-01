@@ -1,0 +1,11 @@
+Model Information:
+* title:	Futuristic Samurai Hat
+* source:	https://sketchfab.com/3d-models/futuristic-samurai-hat-5dc40453ea6b439aa21c5f4e52ffcf6f
+* author:	Daniel Skomorovsky (https://sketchfab.com/danielskom111)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Futuristic Samurai Hat" (https://sketchfab.com/3d-models/futuristic-samurai-hat-5dc40453ea6b439aa21c5f4e52ffcf6f) by Daniel Skomorovsky (https://sketchfab.com/danielskom111) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

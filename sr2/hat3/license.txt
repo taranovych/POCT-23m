@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hat_Partha_Test
+* source:	https://sketchfab.com/3d-models/hat-partha-test-eb750a2d8f76475f94b4d9aa3092e9b9
+* author:	partha (https://sketchfab.com/partha1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hat_Partha_Test" (https://sketchfab.com/3d-models/hat-partha-test-eb750a2d8f76475f94b4d9aa3092e9b9) by partha (https://sketchfab.com/partha1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
